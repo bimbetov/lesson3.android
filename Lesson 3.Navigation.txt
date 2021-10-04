@@ -1,0 +1,8 @@
+Lesson 3.
+1)
+- A Fragment has its own lifecycle and receives its own input events.
+- When inflating the layout for either a Fragment or an Activity, you can reference the layout as R.layout.layoutname.
+2)
+- You can use a Fragment in more than one Activity.
+- One Activity can have multiple fragments.
+- Use the <fragment> tag to define the place in a layout file where a Fragment is to be inserted.
